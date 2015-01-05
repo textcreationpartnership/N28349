@@ -122,8 +122,10 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:037781_0000_100F4C8B39C24140" rendition="simple:additions"/>
-            <pb facs="tcp:037781_0001_100F4C8CC4A88CF8" rendition="simple:additions"/>
+            <pb facs="unknown:037781_0000_100F4C8B39C24140"
+                rendition="simple:additions"/>
+            <pb facs="unknown:037781_0001_100F4C8CC4A88CF8"
+                rendition="simple:additions"/>
             <p>
                <figure>
                   <head>
@@ -133,7 +135,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:037781_0002_100F4C8FE6B8F6C0"/>
+            <pb facs="unknown:037781_0002_100F4C8FE6B8F6C0"/>
             <p>THE LAST WORDS AND Dying Confeſſion OF THE <hi>THREE PIRATES,</hi> WHO WERE EXECUTED THIS DAY, (May 9th, 1800.)</p>
             <p>FROM FOLWELL'S PRESS, No. 63, North Front-ſtreet, Philadelphia. <hi>(Copy-right secured according to law.)</hi>
             </p>
@@ -141,7 +143,7 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:037781_0003_100F4C9220734040"/>
+            <pb facs="unknown:037781_0003_100F4C9220734040"/>
             <head>LAST DYING WORDS, <hi>CONFESSION, &amp;c.</hi>
             </head>
             <p>
@@ -167,7 +169,7 @@
                </body>
             </floatingText>
             <p>
-               <pb n="3" facs="tcp:037781_0004_100F4C9464B28800"/>
+               <pb n="3" facs="unknown:037781_0004_100F4C9464B28800"/>
                <hi>The ſame day, Joſeph Berrouſe dictated the follow<g ref="char:EOLhyphen"/>ing letter to his Uncle, in Paris:</hi>
             </p>
             <floatingText type="letter" xml:lang="eng">
@@ -192,7 +194,7 @@
             </floatingText>
             <p>Theſe three unfortunate young men were attended, from the time they received their ſentence, to the day of their execution, by clergymen of different perſuaſions, and they employed themſelves almoſt unremittedly in acts of devotion; and appeared truly penitent, and anxious to obtain favour from an offended God, through the merits of Jeſus Chriſt.</p>
             <p>
-               <pb n="4" facs="tcp:037781_0005_100F4C95EC566720"/>
+               <pb n="4" facs="unknown:037781_0005_100F4C95EC566720"/>
                <hi>Peter La Croix, ſhortly before his execution, gave the following account of his life.</hi>
             </p>
             <q>
@@ -206,11 +208,11 @@
             <p>He diſcloſed his real name to one of the miniſters, who viſited him: but begged that it might be kept a ſecret, as he did not wiſh to expoſe his relations to that diſgrace which the publicity of his unhappy end undoubtedly would.</p>
             <p>According to his account, he is of a reſpectable family; and his mother, brethren, and ſiſters were yet alive, as far as he knew.</p>
             <p>The author of this ſhort account did not ſee the priſoner until ſentence had been paſſed on him; and, therefore, can
-<pb n="5" facs="tcp:037781_0006_100F4C984F9E0048"/>only relate what ſituation he found him in, during that ſhort ſpace of time.</p>
+<pb n="5" facs="unknown:037781_0006_100F4C984F9E0048"/>only relate what ſituation he found him in, during that ſhort ſpace of time.</p>
             <p>The unhappy man was, in thoſe days, as much as appeared, quiet, and perfectly reſigned. His chief occupation was the ſtudy of the Scriptures; and, in theſe, the Old. Teſtament as well as the New, he was ſurpriſingly verſed. He made many ſenſible and ſtriking remarks upon ſome texts, which might otherwiſe be accounted difficult; and it appeared, plainly, that he underſtood what he read. It was a great advantage to him, that, in his early days, he had been well acquainted with the Bible; for, although he afterwards reviled the ſame, and even ſcoffed at it, yet, at the hour of death, it was his only refuge; and this, without a doubt, becauſe the bleſſed recollection of what it had been to him in his youth, encouraged him there<g ref="char:EOLhyphen"/>to. He confeſſed that he never had cared for the Scriptures ſince his infancy, until he was confined in the cell of the Philadelphia Priſon. In this diſtreſs, he knew of no other remedy to allay his apprehenſions. He read, and the more he read, the more he wiſhed to read; and he muſt really have been very induſtrious, in this his employment, or elſe it would have been impoſſible, that, in ſo ſhort a time, he ſhould have become ſo well acquainted with this book, as he really was.</p>
             <p>When viſited, he complained of nothing more than of the hardneſs of his heart. This he looked upon as the ſevereſt judgment of God, which the Lord had inflicted upon him for his enormous iniquities. He acknowledged how great the difference was between the faith of the head and of the heart: He complained that the latter remained ſo ſtrange to him. He prayed frequently; yet, according to his own declaration, altho' the words proceeded from his mouth, his heart and ſentiments had no ſhare therein. He believed in Jeſus as his Saviour; but this belief made no impreſſion upon his heart. He ſhewed great concern, leſt the Lord ſhould re<g ref="char:EOLhyphen"/>ject him, and that he would hardly accept of a ſinner like him. His approaching end, did not, according to his ac<g ref="char:EOLhyphen"/>knowledgment, occaſion in him any fear. He confeſſed that he had perfectly deſerved this puniſhment; but, that the judgment of God, and of eternity, were dreadful to him: That the recollection of his ſins, and the damnation which he had deſerved, were the gnawing worm of his heart.</p>
             <p>In this ſorry and dreadful ſituation of mind, he was found conſtantly, until about three days before his execution: when beamed a ſmall glimpſe of grace upon his darkened ſoul. A very applicable German Hymn was read to him, which drew the firſt tears from his eyes, and his heart was conſide<g ref="char:EOLhyphen"/>rably releaved by it. From that moment, he began to be
-<pb n="6" facs="tcp:037781_0007_100F4C9A2F1F4B20"/>more eaſy. He now peruſed the Scriptures with more ſen<g ref="char:EOLhyphen"/>ſation: Reading Luke 11, 1, 12, he exclaimed: <hi>"Now this must be true, what Jesus has said, for be never spoke an un<g ref="char:EOLhyphen"/>truth; and so the Almighty God will, for all, hear my prayers."</hi> And here-his-eyes were bathed in tears.</p>
+<pb n="6" facs="unknown:037781_0007_100F4C9A2F1F4B20"/>more eaſy. He now peruſed the Scriptures with more ſen<g ref="char:EOLhyphen"/>ſation: Reading Luke 11, 1, 12, he exclaimed: <hi>"Now this must be true, what Jesus has said, for be never spoke an un<g ref="char:EOLhyphen"/>truth; and so the Almighty God will, for all, hear my prayers."</hi> And here-his-eyes were bathed in tears.</p>
             <p>The above-mentioned Hymn gave great conſolation to him; he read it himſelf, and he cauſed it to be read to him repeatedly.</p>
             <p>On the <gap reason="illegible" resp="#UOM" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -233,7 +235,7 @@
                      <salute>DEAR BROTHER,</salute>
                   </opener>
                   <p>THIS is the laſt letter which you will receive from me; and I hope that the great and Almighty God, will let you come to a better end than that which I am come to: Becauſe I forſook the Al<g ref="char:EOLhyphen"/>mighty
-<pb n="7" facs="tcp:037781_0008_100F4C9BF1F79870"/>God, my latter end is truly unfortunate. I hope you will take this to heart, and, with your whole ſoul, cleave to God, who can deliver us from evil. Dear brother, I write this in chains and fetters, about twenty hours before my death, in hopes that you will take the ſame to heart, and truſt in him, whom I had forſaken,—but on whom I now place my only hopes, and confide in his unmerited mercy. I hope that you will remem<g ref="char:EOLhyphen"/>ber me with brotherly love. I herewith conclude, recommending you, as likewiſe my poor ſoul, into the hands of the God of my fathers, and wiſh you an eternal <hi>good night.</hi> And, as I hope to obtain the grace of God, I recommend you into the hands of my Saviour, Jeſus Chriſt; and I now go to <hi>eternal reſt</hi>—Amen.—Greet all friends and ac<g ref="char:EOLhyphen"/>quaintances in the name of the Lord my God, and your God—Amen.</p>
+<pb n="7" facs="unknown:037781_0008_100F4C9BF1F79870"/>God, my latter end is truly unfortunate. I hope you will take this to heart, and, with your whole ſoul, cleave to God, who can deliver us from evil. Dear brother, I write this in chains and fetters, about twenty hours before my death, in hopes that you will take the ſame to heart, and truſt in him, whom I had forſaken,—but on whom I now place my only hopes, and confide in his unmerited mercy. I hope that you will remem<g ref="char:EOLhyphen"/>ber me with brotherly love. I herewith conclude, recommending you, as likewiſe my poor ſoul, into the hands of the God of my fathers, and wiſh you an eternal <hi>good night.</hi> And, as I hope to obtain the grace of God, I recommend you into the hands of my Saviour, Jeſus Chriſt; and I now go to <hi>eternal reſt</hi>—Amen.—Greet all friends and ac<g ref="char:EOLhyphen"/>quaintances in the name of the Lord my God, and your God—Amen.</p>
                   <closer>
                      <signed>Your ſervant and brother, to eternity, PETER LA CROIX.</signed>
                   </closer>
@@ -242,7 +244,7 @@
             <p>Reader! The crimes of theſe young men were the great<g ref="char:EOLhyphen"/>eſt that can be committed in civil ſociety—and highly aggra<g ref="char:EOLhyphen"/>vated by many attrocious circumſtances. Although they have not furniſhed the world with a particular account of their paſt lives, it is almoſt certain, that, though young men, they had purſued a diſſolute and abandoned courſe,—regardleſs of God, before whom they are now to be judged—and who, in his all-wiſe Providence, ſtopped them in their vicious career.</p>
             <p>Murder is a crime of ſo deep a dye, that it ſeldom or ne<g ref="char:EOLhyphen"/>ver eſcapes a temporal puniſhment;—though God, in his in<g ref="char:EOLhyphen"/>finite mercy, may grant repentance, and, thereby, the unhappy perpetrator may not be finally ſhut out from eternal hap<g ref="char:EOLhyphen"/>pineſs.</p>
             <p>
-               <pb n="8" facs="tcp:037781_0009_100F4C9EEBD61F48"/>
+               <pb n="8" facs="unknown:037781_0009_100F4C9EEBD61F48"/>
 How much reaſon had theſe perſons to rejoice, that they were brought to a city, where the conſolation of the goſpel were held out to them, by pious divines;—that they were not ſnatched into eternity, from their wicked courſes, in a moment, without time or opportunity to reflect on, and re<g ref="char:EOLhyphen"/>pent, of their miſpent life, and the diſregard they had paid to the commandments of God, or the laws of man.</p>
             <p>It is ſincerely hoped, that their untimely fate may be a warning to all young men, to forſake the paths of vice, and to remember their Creator in the days of their youth—to gain a living by honeſt induſtry, rather than by violence upon the perſons or property of others, in whatever ſtations they are alloted to,—whether by Land or Sea.</p>
             <p>They were taken from the cells about 11 o'clock, dreſſed, in white, in one cart, accompanied by two clergymen, to Market-ſtreet wharf, where they were put on beard a boat, and conveyed to the place of execution, on the Iſland, op<g ref="char:EOLhyphen"/>poſite Dock-ſtreet, and guarded by the marſhall, ſheriff and other peace-officers. They continued in prayer until near twelve o'clock; when the executioner performed his laſt office to them, and they were launched into eternity, in the view of an immenſe concourſe of ſpectators, who crouded the wharfs and the ſhipping. They made no other ſpeech, than begging the world to forgive them, as they forgave every perſon in it.</p>
